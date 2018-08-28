@@ -3,12 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/eccv2018/</loc>
+    <lastmod>2018-03-14T23:59:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/iccv2019/</loc>
+    <lastmod>2018-03-01T13:56:23-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://threedscan-sbu.github.io/conferences/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://threedscan-sbu.github.io/conferences/</loc>
+    <lastmod>2018-03-14T23:59:10-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/</loc>
+    <lastmod>2018-03-14T23:59:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
