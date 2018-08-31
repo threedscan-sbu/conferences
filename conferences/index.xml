@@ -6,27 +6,441 @@
     <description>Recent content on Conferences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Mar 2018 23:59:10 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 31 Aug 2018 11:15:14 -0400</lastBuildDate>
     
 	<atom:link href="http://threedscan-sbu.github.io/conferences/conferences/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>MLDM 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/mldm/</link>
+      <pubDate>Fri, 31 Aug 2018 11:15:14 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/mldm/</guid>
+      <description>         Paper Submission January 15th, 2019   Conference July 20-25, 2019    </description>
+    </item>
+    
+    <item>
+      <title>AMLTA 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/amlta/</link>
+      <pubDate>Fri, 31 Aug 2018 11:12:15 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/amlta/</guid>
+      <description>         Paper submission deadline 30 September 2018   Acceptance notification 30 October 2018   Submission of revised papers and camera ready 15 November 2018   Registration 15 November 2018    </description>
+    </item>
+    
+    <item>
+      <title>ICIAI</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/iciai/</link>
+      <pubDate>Fri, 31 Aug 2018 11:06:47 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/iciai/</guid>
+      <description>         Submission Deadline November 01, 2018   Notification Date November 20, 2018   Registration Deadline December 10, 2018   Conference Dates March 15-18, 2019    </description>
+    </item>
+    
+    <item>
+      <title>ICDMML 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/icdmml/</link>
+      <pubDate>Fri, 31 Aug 2018 11:00:13 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/icdmml/</guid>
+      <description>         Submission Deadline December 30 2018   Decisions To Authors January 15 2019   Final Version Deadline February 28 2019   Registration Deadline March 29 2019    </description>
+    </item>
+    
+    <item>
+      <title>ICMVA 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/icmva/</link>
+      <pubDate>Fri, 31 Aug 2018 10:33:42 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/icmva/</guid>
+      <description>         Submission Deadline October 10, 2018   Acceptance Notification October 25, 2018   Registration Deadline November 15, 2018   Camera Ready January 25, 2019   Conference February 27-March 1, 2019    </description>
+    </item>
+    
+    <item>
+      <title>CALDAM 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/caldam/</link>
+      <pubDate>Fri, 31 Aug 2018 10:31:10 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/caldam/</guid>
+      <description>         Paper Submission September 28, 2018   Notification of Acceptance November 11, 2018   Camera-ready Version November 28, 2018   Pre-Conference School February 11-12, 2019   Conference February 14-16, 2019    </description>
+    </item>
+    
+    <item>
+      <title>CCVPR 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/ccvpr/</link>
+      <pubDate>Fri, 31 Aug 2018 10:27:16 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/ccvpr/</guid>
+      <description>         Full Submission Sep 30, 2018   Abstract Submission Sep 27, 2018   Author Notification Within 2 weeks   Final Version Oct 28, 2018   Registration Oct 28, 2018   Main conference Dec. 13-15, 2018    </description>
+    </item>
+    
+    <item>
+      <title>CCIW 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/cciw/</link>
+      <pubDate>Fri, 31 Aug 2018 10:13:41 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/cciw/</guid>
+      <description>         Paper submission deadline October 15, 2018   Notification of acceptance December 14, 2018   Camera-ready deadline December 28, 2018   Workshop March 27-29, 2019    </description>
+    </item>
+    
+    <item>
+      <title>EVA 2019 Florence</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/eva/</link>
+      <pubDate>Fri, 31 Aug 2018 10:07:21 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/eva/</guid>
+      <description>         Submission Deadline Oct 30, 2018   Conference May 8 - 9 2019    </description>
+    </item>
+    
+    <item>
+      <title>BIOIMAGING 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/bioimaging/</link>
+      <pubDate>Wed, 29 Aug 2018 17:23:58 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/bioimaging/</guid>
+      <description>         Regular Paper Submission October 1, 2018   Regular Paper Authors Notification November 29, 2018   Regular Paper Camera Ready and Registration December 13, 2018   Conference February 22-24    </description>
+    </item>
+    
+    <item>
+      <title>IMIP 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/imip/</link>
+      <pubDate>Wed, 29 Aug 2018 17:20:17 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/imip/</guid>
+      <description>         Submission Deadline Nov. 30, 2018   Notification Date Dec. 20, 2018   Registration Deadline Jan. 10, 2019   Conference Date Apr. 17-19, 2019   Academic Visit Apr. 20, 2019    </description>
+    </item>
+    
+    <item>
+      <title>ICBET 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/icbet/</link>
+      <pubDate>Wed, 29 Aug 2018 17:16:40 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/icbet/</guid>
+      <description>         Paper Submission (Full Paper) November 10, 2018   Notification of Acceptance November 30, 2018   Final Paper Submission December 20, 2018   Authors&amp;rsquo; Registration December 20, 2018   Conference Dates March 28-29, 2019   Academic Visit &amp;amp; Tour March 30, 2019    </description>
+    </item>
+    
+    <item>
+      <title>APCIM 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/apcim/</link>
+      <pubDate>Wed, 29 Aug 2018 17:14:09 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/apcim/</guid>
+      <description>         Paper submission September 20th, 2018   Author notification October 5th, 2018   Registration deadline October 20th, 2018   Conference November 16-18, 2018    </description>
+    </item>
+    
+    <item>
+      <title>IPMI 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/ipmi/</link>
+      <pubDate>Wed, 29 Aug 2018 17:09:49 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/ipmi/</guid>
+      <description>         Paper registration 26 November 2018   Submission of full papers 3 December 2018   Reviews due date 2 February 2019   Notification of acceptance February 2019   Registration opens February 2019   Camera copy ready March 2019   Registration closes April 2019   Conference 2-7 June 2019    </description>
+    </item>
+    
+    <item>
+      <title>ICIGP 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/icigp/</link>
+      <pubDate>Wed, 29 Aug 2018 16:47:21 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/icigp/</guid>
+      <description>         Submission Deadline October 15, 2018   Notification of Acceptance November 5, 2018   Registration Deadline November 20, 2018   Conference February 23-25, 2019    </description>
+    </item>
+    
+    <item>
+      <title>ICGIP 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/icgip/</link>
+      <pubDate>Wed, 29 Aug 2018 16:40:46 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/icgip/</guid>
+      <description>         Submission Deadline Sep. 10, 2018   Notification Date Oct. 5, 2018   Registration Deadline Oct. 20, 2018   Conference Period Dec. 12-14, 2018    </description>
+    </item>
+    
+    <item>
+      <title>ICCGGM 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/iccggm/</link>
+      <pubDate>Wed, 29 Aug 2018 10:19:24 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/iccggm/</guid>
+      <description>         Abstracts/Full-Text Paper Submission Deadline April 30, 2019   Notification of Acceptance/Rejection July 30, 2019   Final Paper (Camera Ready) Submission September 30, 2019   Conference Dates October 30 - 31, 2019    </description>
+    </item>
+    
+    <item>
+      <title>GMP 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/gmp/</link>
+      <pubDate>Wed, 29 Aug 2018 09:57:08 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/gmp/</guid>
+      <description>         Abstract Submission January, 2019 (Expected)   Conference June 19-21, 2019    </description>
+    </item>
+    
+    <item>
+      <title>SMI 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/smi/</link>
+      <pubDate>Wed, 29 Aug 2018 09:51:01 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/smi/</guid>
+      <description>         Abstract for full papers March, 2019 (Expected)   Conference June 19-21, 2019    </description>
+    </item>
+    
+    <item>
+      <title>SPM 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/spm/</link>
+      <pubDate>Wed, 29 Aug 2018 09:47:28 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/spm/</guid>
+      <description>         Abstract Submission Due Feb, 2018 (Expected)   Conference June 17 - 19, 2019    </description>
+    </item>
+    
+    <item>
+      <title>SIAM/GD 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/siam-gd/</link>
+      <pubDate>Wed, 29 Aug 2018 09:42:03 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/siam-gd/</guid>
+      <description>         Submission February(Expected), 2019   Conference June 17 - 19, 2019    </description>
+    </item>
+    
+    <item>
+      <title>CVPR 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/cvpr/</link>
+      <pubDate>Tue, 28 Aug 2018 20:15:36 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/cvpr/</guid>
+      <description>         Paper Submission Deadline November 16, 2018   Supplementary Materials November 23, 2018   Reviews Released to Authors February 1, 2019   Rebuttal Period February 1-8, 2019   Final Decisions to Authors March 2, 2019    </description>
+    </item>
+    
+    <item>
+      <title>DMIP 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/dmip/</link>
+      <pubDate>Tue, 28 Aug 2018 20:06:36 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/dmip/</guid>
+      <description>         Submission Deadline September 10, 2018   Notification Date September 25, 2018   Author&amp;rsquo;s Registration October 10, 2018   Final Paper Submission October 10, 2018   Conference Dates November 12-13, 2018   One Day Visit November 14, 2018    </description>
+    </item>
+    
+    <item>
+      <title>IVCNZ 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/ivcnz/</link>
+      <pubDate>Tue, 28 Aug 2018 20:03:57 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/ivcnz/</guid>
+      <description>         Submission 17 September, 2018   Notification 15 October, 2018   Camera-ready 29 October,2018   Conference 19-21 November, 2018    </description>
+    </item>
+    
+    <item>
+      <title>ICRCV 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/icrcv/</link>
+      <pubDate>Tue, 28 Aug 2018 20:00:11 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/icrcv/</guid>
+      <description>         Final Submission deadine September 20, 2018   Notification deadline October 05, 2018   Registration deadline October 15, 2018   Conference date November 17-19, 2018    </description>
+    </item>
+    
+    <item>
+      <title>CVM 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/cvm/</link>
+      <pubDate>Tue, 28 Aug 2018 19:57:37 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/cvm/</guid>
+      <description>         Full papers due September 21, 2018   Acceptance notification November 23, 2018   Conference days April 24-26, 2019.   Conference April 24-26, 2019    </description>
+    </item>
+    
+    <item>
+      <title>VISIGRAPP 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/visigrapp/</link>
+      <pubDate>Tue, 28 Aug 2018 19:54:54 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/visigrapp/</guid>
+      <description>         Regular Paper Submission October 1, 2018   Regular Paper Authors Notification November 29, 2018   Regular Paper Camera Ready and Registration December 13, 2018   Conference February 25-27, 2019    </description>
+    </item>
+    
+    <item>
+      <title>IVSP 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/ivsp/</link>
+      <pubDate>Tue, 28 Aug 2018 19:50:34 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/ivsp/</guid>
+      <description>         Submission Deadline October 10, 2018   Notification of Acceptance October 31, 2018   Registration Deadline November 25, 2018   Conference Date February 25-28, 2019    </description>
+    </item>
+    
+    <item>
+      <title>ICCGV 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/iccgv/</link>
+      <pubDate>Tue, 28 Aug 2018 19:46:32 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/iccgv/</guid>
+      <description>         Preliminary Paper Submission Deadline September 25, 2018   Paper Acceptance Notification October 20, 2018   Camera Ready Paper Submission November 10, 2018   Preliminary Registration Deadline January 15, 2019   Conference February 23-26, 2019    </description>
+    </item>
+    
+    <item>
+      <title>IEEEVR 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/ieeevr/</link>
+      <pubDate>Tue, 28 Aug 2018 19:01:58 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/ieeevr/</guid>
+      <description>         VR Journal Papers abstracts due September 3, 2018   VR Journal Papers submissions due September 10, 2018   VR Journal Papers notification of results of first review cycle November 15, 2018   VR Conference Papers abstract due November 22, 2018   VR Conference Papers submissions due November 29, 2018    </description>
+    </item>
+    
+    <item>
+      <title>Eurographics 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/eurographics/</link>
+      <pubDate>Tue, 28 Aug 2018 18:54:34 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/eurographics/</guid>
+      <description>         Abstract submissions 23:59UTC, October 2, 2018   Full paper submissions 23:59UTC, October 9, 2018   Full paper notification February 15, 2019   Short paper submissions 23:59UTC, December 14, 2018   Short paper notification February 11, 2019   Conference May 6-10, 2019    </description>
+    </item>
+    
+    <item>
+      <title>PacificVis 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/pacificvis/</link>
+      <pubDate>Tue, 28 Aug 2018 18:44:16 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/pacificvis/</guid>
+      <description>         Abstract due Sep. 28, 2018   Full paper due Oct. 5, 2018   Reviews due Nov. 16, 2018   1st cycle notification Nov. 30, 2018   Revision Dec. 21, 2018   2nd cycle notification Jan. 4, 2019   Camera ready paper due Jan. 14, 2019    </description>
+    </item>
+    
+    <item>
+      <title>CIG 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/cig/</link>
+      <pubDate>Tue, 28 Aug 2018 18:40:52 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/cig/</guid>
+      <description>         Paper Submission March 15, 2018   Conference begins August 14, 2018    </description>
+    </item>
+    
+    <item>
+      <title>SCA 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/sca/</link>
+      <pubDate>Tue, 28 Aug 2018 18:23:07 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/sca/</guid>
+      <description>         Submission deadline April 9, 2018 – 23:59 UTC   Paper Notification May 18, 2018   Paper Revised Version June 3rd, 2018   Approval of the revision June 8th, 2018   Paper Final Notification June 10th, 2018   Camera-ready Paper June 15th, 2018    </description>
+    </item>
+    
+    <item>
+      <title>SMC 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/smc/</link>
+      <pubDate>Tue, 28 Aug 2018 18:14:50 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/smc/</guid>
+      <description>         Submission of Special Session proposals FEBRUARY 20, 2019   Acceptance/rejection notification of Special Sessions MARCH 15, 2019   Deadline for submission of regular and special session papers MARCH 31, 2019   Acceptance/rejection notification of regular and special session papers JUNE 01, 2019   Final camera-ready papers JULY 20, 2019   Conference October 06-09 , 2019    </description>
+    </item>
+    
+    <item>
+      <title>MMSys 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/mmsys/</link>
+      <pubDate>Tue, 28 Aug 2018 18:03:40 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/mmsys/</guid>
+      <description>         Submission deadline October 31, 2018   Acceptance notification December 31, 2018   Camera ready deadline January 31, 2019   Conference June 18 - 21, 2019    </description>
+    </item>
+    
+    <item>
+      <title>ICME 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/icme/</link>
+      <pubDate>Tue, 28 Aug 2018 17:59:25 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/icme/</guid>
+      <description>         Regular Paper Submission December 03, 2018   Regular Paper Rebuttal Begins February 25, 2019   Regular Paper Notification March 11, 2019   Conference July 8-12, 2019    </description>
+    </item>
+    
+    <item>
+      <title>IUI 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/iui/</link>
+      <pubDate>Tue, 28 Aug 2018 17:56:24 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/iui/</guid>
+      <description>         Abstract deadline Oct 1, 2018   Papers deadline Oct 8, 2018   Notification Dec 7, 2018   Camera ready due Dec 21, 2018   Conference starts Mar 17, 2019    </description>
+    </item>
+    
+    <item>
+      <title>MobileHCI 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/mobilehci/</link>
+      <pubDate>Tue, 28 Aug 2018 17:48:45 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/mobilehci/</guid>
+      <description>         Submissions February 9th, 2018   Conference September 3rd - 6th, 2018    </description>
+    </item>
+    
+    <item>
+      <title>FG 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/fg/</link>
+      <pubDate>Tue, 28 Aug 2018 17:44:13 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/fg/</guid>
+      <description>         Paper submission deadline 28 September 2018   Notification deadline 21 January 2019   Workshops, tutorials and Challenges 14 and 18 May 2019   Main Conference 15 to 17 May 2019    </description>
+    </item>
+    
+    <item>
+      <title>ICCAD 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/iccad/</link>
+      <pubDate>Tue, 28 Aug 2018 17:38:11 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/iccad/</guid>
+      <description>         Paper Submissions 5:00pm PDT (GMT -07:00) Monday, April 23, 2018   Conference November 5-8, 2018    </description>
+    </item>
+    
+    <item>
+      <title>ICPR 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/icpr/</link>
+      <pubDate>Tue, 28 Aug 2018 17:34:08 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/icpr/</guid>
+      <description>         Paper Submission January 22, 2018 (23:59 UTC-8)   Conference August 20-24, 2018    </description>
+    </item>
+    
+    <item>
+      <title>ACCV 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/accv/</link>
+      <pubDate>Tue, 28 Aug 2018 17:30:41 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/accv/</guid>
+      <description>         Paper submission deadline July 5, 2018   Workshop proposals deadline May 11, 2018   Conference December 2-6, 2018    </description>
+    </item>
+    
+    <item>
+      <title>BMVC 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/bmvc/</link>
+      <pubDate>Tue, 28 Aug 2018 17:26:56 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/bmvc/</guid>
+      <description>         Paper submission 7 May 2018   Conference 3-6 September 2018    </description>
+    </item>
+    
+    <item>
+      <title>UIST 2018</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/uist/</link>
+      <pubDate>Tue, 28 Aug 2018 17:16:23 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/uist/</guid>
+      <description>         Papers Deadline April 5th, 2018 5pm PDT   Conference October 14 - 17, 2018    </description>
+    </item>
+    
+    <item>
+      <title>CHI 2019</title>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/chi/</link>
+      <pubDate>Tue, 28 Aug 2018 17:08:35 -0400</pubDate>
+      
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/chi/</guid>
+      <description>         Abstract 14 September 2018   Submission 21 September 2018   Conference 4-9 May 2019    </description>
+    </item>
+    
+    <item>
       <title>ECCV 2018</title>
-      <link>http://threedscan-sbu.github.io/conferences/conferences/eccv2018/</link>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/eccv/</link>
       <pubDate>Wed, 14 Mar 2018 23:59:10 -0400</pubDate>
       
-      <guid>http://threedscan-sbu.github.io/conferences/conferences/eccv2018/</guid>
-      <description>Main Conference September 10-13 2018   Paper Submission Deadline March 14 2018 (23:59 CET)   Supplementary material deadline March 19 2018 (23:59 CET)   Rebuttal Period May 17 - May 24 2018   Decisions to Authors July 3 2018   Final Version Deadline July 25 2018    ​</description>
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/eccv/</guid>
+      <description>Paper Submission Deadline March 14 2018 (23:59 CET)   Supplementary material deadline March 19 2018 (23:59 CET)   Rebuttal Period May 17 - May 24 2018   Decisions to Authors July 3 2018   Final Version Deadline July 25 2018   Main Conference September 10-13 2018    ​</description>
     </item>
     
     <item>
       <title>ICCV 2019</title>
-      <link>http://threedscan-sbu.github.io/conferences/conferences/iccv2019/</link>
+      <link>http://threedscan-sbu.github.io/conferences/conferences/iccv/</link>
       <pubDate>Thu, 01 Mar 2018 13:56:23 -0400</pubDate>
       
-      <guid>http://threedscan-sbu.github.io/conferences/conferences/iccv2019/</guid>
-      <description>         Main Conference October 27, 2019 - November 3, 2019   Paper Submission Deadline March, 2019   Rebuttal Due May, 2019   Area Chair Meeting Notification of Acceptance June, 2019   Camera-Ready Deadline July, 2019    </description>
+      <guid>http://threedscan-sbu.github.io/conferences/conferences/iccv/</guid>
+      <description>         Paper Submission Deadline March, 2019   Rebuttal Due May, 2019   Area Chair Meeting Notification of Acceptance June, 2019   Camera-Ready Deadline July, 2019   Main Conference October 27, 2019 - November 3, 2019    </description>
     </item>
     
   </channel>

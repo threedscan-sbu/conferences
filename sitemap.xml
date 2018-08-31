@@ -3,12 +3,242 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://threedscan-sbu.github.io/conferences/conferences/eccv2018/</loc>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/mldm/</loc>
+    <lastmod>2018-08-31T11:15:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/amlta/</loc>
+    <lastmod>2018-08-31T11:12:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/iciai/</loc>
+    <lastmod>2018-08-31T11:06:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/icdmml/</loc>
+    <lastmod>2018-08-31T11:00:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/icmva/</loc>
+    <lastmod>2018-08-31T10:33:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/caldam/</loc>
+    <lastmod>2018-08-31T10:31:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/ccvpr/</loc>
+    <lastmod>2018-08-31T10:27:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/cciw/</loc>
+    <lastmod>2018-08-31T10:13:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/eva/</loc>
+    <lastmod>2018-08-31T10:07:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/bioimaging/</loc>
+    <lastmod>2018-08-29T17:23:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/imip/</loc>
+    <lastmod>2018-08-29T17:20:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/icbet/</loc>
+    <lastmod>2018-08-29T17:16:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/apcim/</loc>
+    <lastmod>2018-08-29T17:14:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/ipmi/</loc>
+    <lastmod>2018-08-29T17:09:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/icigp/</loc>
+    <lastmod>2018-08-29T16:47:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/icgip/</loc>
+    <lastmod>2018-08-29T16:40:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/iccggm/</loc>
+    <lastmod>2018-08-29T10:19:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/gmp/</loc>
+    <lastmod>2018-08-29T09:57:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/smi/</loc>
+    <lastmod>2018-08-29T09:51:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/spm/</loc>
+    <lastmod>2018-08-29T09:47:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/siam-gd/</loc>
+    <lastmod>2018-08-29T09:42:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/cvpr/</loc>
+    <lastmod>2018-08-28T20:15:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/dmip/</loc>
+    <lastmod>2018-08-28T20:06:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/ivcnz/</loc>
+    <lastmod>2018-08-28T20:03:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/icrcv/</loc>
+    <lastmod>2018-08-28T20:00:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/cvm/</loc>
+    <lastmod>2018-08-28T19:57:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/visigrapp/</loc>
+    <lastmod>2018-08-28T19:54:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/ivsp/</loc>
+    <lastmod>2018-08-28T19:50:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/iccgv/</loc>
+    <lastmod>2018-08-28T19:46:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/ieeevr/</loc>
+    <lastmod>2018-08-28T19:01:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/eurographics/</loc>
+    <lastmod>2018-08-28T18:54:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/pacificvis/</loc>
+    <lastmod>2018-08-28T18:44:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/cig/</loc>
+    <lastmod>2018-08-28T18:40:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/sca/</loc>
+    <lastmod>2018-08-28T18:23:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/smc/</loc>
+    <lastmod>2018-08-28T18:14:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/mmsys/</loc>
+    <lastmod>2018-08-28T18:03:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/icme/</loc>
+    <lastmod>2018-08-28T17:59:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/iui/</loc>
+    <lastmod>2018-08-28T17:56:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/mobilehci/</loc>
+    <lastmod>2018-08-28T17:48:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/fg/</loc>
+    <lastmod>2018-08-28T17:44:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/iccad/</loc>
+    <lastmod>2018-08-28T17:38:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/icpr/</loc>
+    <lastmod>2018-08-28T17:34:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/accv/</loc>
+    <lastmod>2018-08-28T17:30:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/bmvc/</loc>
+    <lastmod>2018-08-28T17:26:56-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/uist/</loc>
+    <lastmod>2018-08-28T17:16:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/chi/</loc>
+    <lastmod>2018-08-28T17:08:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/eccv/</loc>
     <lastmod>2018-03-14T23:59:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://threedscan-sbu.github.io/conferences/conferences/iccv2019/</loc>
+    <loc>http://threedscan-sbu.github.io/conferences/conferences/iccv/</loc>
     <lastmod>2018-03-01T13:56:23-04:00</lastmod>
   </url>
   
@@ -19,13 +249,13 @@
   
   <url>
     <loc>http://threedscan-sbu.github.io/conferences/</loc>
-    <lastmod>2018-03-14T23:59:10-04:00</lastmod>
+    <lastmod>2018-08-31T11:15:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://threedscan-sbu.github.io/conferences/conferences/</loc>
-    <lastmod>2018-03-14T23:59:10-04:00</lastmod>
+    <lastmod>2018-08-31T11:15:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   
